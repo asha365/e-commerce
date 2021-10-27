@@ -1,0 +1,42 @@
+
+ .logo img{
+    height: 120px;
+    width: 120px;
+}
+.slider img{
+    height: 400px;
+}
+
+.cat-image img{
+    width: 100px;
+   
+}
+.price{
+    color: #FF136F;
+}
+.bag{
+    background: linear-gradient(90deg, rgba(183,189,28,1) 34%, rgba(28,150,189,1) 100%, rgba(166,28,189,1) 100%, rgba(189,41,28,1) 100%, rgba(115,48,113,1) 100%, rgba(0,212,255,1) 100%);
+
+}
+.eyeshadow{
+    background: linear-gradient(90deg, rgba(52,28,189,1) 24%, rgba(166,28,189,1) 100%, rgba(189,41,28,1) 100%, rgba(115,48,113,1) 100%, rgba(0,212,255,1) 100%);
+}
+.foundation{
+    background: linear-gradient(90deg, rgba(189,68,28,1) 46%, rgba(115,48,113,1) 100%, rgba(0,212,255,1) 100%);
+
+}
+.categories-image img{
+    width: 100px;
+    height: 150px;
+} 
+.button{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,69,1) 22%, rgba(0,212,255,1) 100%);
+    outline: none;
+    border: none;
+    padding: 12px;
+}
+.input{
+    outline: none;
+    padding: 5px;
+    border-radius: 5px;
+}

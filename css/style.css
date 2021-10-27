@@ -1,0 +1,12 @@
+.ecommerce-card{
+    border: 0;
+}
+.ecommerce-card-footer{
+    background-color: white;
+    border: 0;
+}
+.ecommerce-slide, .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+  
+}
